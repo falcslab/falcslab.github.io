@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Falcs Lab</title>
     <link>https://falcslab.github.io/publication/</link>
       <atom:link href="https://falcslab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>kazuaki.kiyomi@falcs.jp</copyright>
     <image>
       <url>https://falcslab.github.io/img/icon-192.png</url>
       <title>Publications</title>
